@@ -1,0 +1,9 @@
+2022-01-25 15:59:04.937 +06:00 [INF] Starting up the service
+2022-01-25 15:59:06.981 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:06.9789412+06:00"
+2022-01-25 15:59:13.497 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:13.4974372+06:00"
+2022-01-25 15:59:19.486 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:19.4864218+06:00"
+2022-01-25 15:59:25.479 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:25.4796360+06:00"
+2022-01-25 15:59:31.535 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:31.5351563+06:00"
+2022-01-25 15:59:37.488 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:37.4884545+06:00"
+2022-01-25 15:59:43.480 +06:00 [INF] The website is up. Status code: "OK", "2022-01-25T15:59:43.4803388+06:00"
+2022-01-25 15:59:48.914 +06:00 [INF] The service has been stopped...
